@@ -1,2 +1,0 @@
-# ActiTime
-ActiTime_program
